@@ -7,7 +7,7 @@ class Main {
 
     // add two numbers
     int sum = first + second;
-    ystem.out.println("Adding two integers: ");
+    System.out.println("Adding two integers: ");
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
